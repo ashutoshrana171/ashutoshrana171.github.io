@@ -1,32 +1,13 @@
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+As a Quant Developer, Ashutosh applies skills and knowledge in Large Language Models, quantitative modeling, algorithmic trading, and technical support in various projects and tasks. Ashutosh is passionate about exploring and developing innovative and effective solutions for complex financial problems and challenges.
 
+Ashutosh graduated with a master's degree in quantitative finance at Rutgers Business School, where he learned from leading faculty and industry experts, and engaged in cutting-edge research and coursework. Ashutosh has a strong background in electronics and communications engineering, which he obtained from Vellore Institute of Technology. He has also acquired multiple certifications in game development, frontend fundamentals, and self-driving car applications, demonstrating my curiosity and versatility in learning new technologies and domains.
 
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
+Ashutosh has previously worked as a product analyst at ION, a leading fintech company, where he maintained client relationships, guided project teams, and collaborated with development teams to deliver high-quality trading solutions. 
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Ashutosh is also an avid football player and fan, representing his school and college in regional and national platforms, and enjoying the thrill and teamwork of the sport.
 
-(* = not included)
+Ashutosh is always eager to learn new things, challenge himself, and contribute to the success and growth of the organizations and teams he works with. Ashutosh aspire to be a happy and successful version of himself, and to make a positive impact in the field of quantitative finance and beyond.
 
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Contact: ashutoshrana171@gmail.com
+Github: https://github.com/ashutoshrana171
+Phone: +1 973-704-2493
